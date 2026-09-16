@@ -1,4 +1,5 @@
 🧠 News Category Classifier (GUI-Based)
+
 This project is a simple yet practical Machine Learning application that classifies news headlines into different categories such as Politics, Sports, Technology, Business, and more.
 
 It combines Natural Language Processing (NLP) with a user-friendly desktop interface built using Tkinter.
