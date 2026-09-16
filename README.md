@@ -106,8 +106,7 @@ The goal of this project is to demonstrate how machine learning can be applied t
 
 ## 👨‍💻 Author
 
-**Rishabh Rai**
-B.Tech CSE (AI/ML) – 1st Year
+**Ayushi Dubey**
+Integrated M.Tech CSE (AI/ML) – 2nd Year
 
-⭐ If you like this project, feel free to star it!
 
